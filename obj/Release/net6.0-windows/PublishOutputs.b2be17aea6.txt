@@ -1,0 +1,11 @@
+D:\CMS\05SQL.exe
+D:\CMS\05SQL.dll
+D:\CMS\05SQL.deps.json
+D:\CMS\05SQL.runtimeconfig.json
+D:\CMS\05SQL.pdb
+D:\CMS\System.Data.SqlClient.dll
+D:\CMS\runtimes\win-arm64\native\sni.dll
+D:\CMS\runtimes\win-x64\native\sni.dll
+D:\CMS\runtimes\win-x86\native\sni.dll
+D:\CMS\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\CMS\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

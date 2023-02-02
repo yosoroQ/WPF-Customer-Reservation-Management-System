@@ -1,0 +1,125 @@
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD\bin\Debug\net6.0-windows\06CMS_MD.exe
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD\bin\Debug\net6.0-windows\06CMS_MD.deps.json
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD\bin\Debug\net6.0-windows\06CMS_MD.runtimeconfig.json
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD\bin\Debug\net6.0-windows\06CMS_MD.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD\bin\Debug\net6.0-windows\06CMS_MD.pdb
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD\bin\Debug\net6.0-windows\Humanizer.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD\obj\Debug\net6.0-windows\06CMS_MD.csproj.AssemblyReference.cache
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD\obj\Debug\net6.0-windows\App.g.cs
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD\obj\Debug\net6.0-windows\06CMS_MD_MarkupCompile.cache
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD\obj\Debug\net6.0-windows\06CMS_MD_MarkupCompile.lref
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD\obj\Debug\net6.0-windows\MainWindow.baml
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD\obj\Debug\net6.0-windows\06CMS_MD.g.resources
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD\obj\Debug\net6.0-windows\06CMS_MD.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD\obj\Debug\net6.0-windows\06CMS_MD.AssemblyInfoInputs.cache
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD\obj\Debug\net6.0-windows\06CMS_MD.AssemblyInfo.cs
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD\obj\Debug\net6.0-windows\06CMS_MD.csproj.CoreCompileInputs.cache
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD\obj\Debug\net6.0-windows\06CMS_MD.csproj.CopyComplete
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD\obj\Debug\net6.0-windows\06CMS_MD.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD\obj\Debug\net6.0-windows\refint\06CMS_MD.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD\obj\Debug\net6.0-windows\06CMS_MD.pdb
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD\obj\Debug\net6.0-windows\06CMS_MD.genruntimeconfig.cache
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD\obj\Debug\net6.0-windows\ref\06CMS_MD.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD - 副本\obj\Debug\net6.0-windows\06CMS_MD.csproj.AssemblyReference.cache
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD - 副本\obj\Debug\net6.0-windows\Controls\HeaderControl.g.cs
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD - 副本\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD - 副本\obj\Debug\net6.0-windows\App.g.cs
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD - 副本\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD - 副本\obj\Debug\net6.0-windows\06CMS_MD_MarkupCompile.cache
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD - 副本\obj\Debug\net6.0-windows\06CMS_MD_MarkupCompile.lref
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD - 副本\obj\Debug\net6.0-windows\06CMS_MD.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD - 副本\obj\Debug\net6.0-windows\refint\06CMS_MD.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD - 副本\obj\Debug\net6.0-windows\06CMS_MD.pdb
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD - 副本\bin\Debug\net6.0-windows\06CMS_MD.exe
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD - 副本\bin\Debug\net6.0-windows\06CMS_MD.deps.json
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD - 副本\bin\Debug\net6.0-windows\06CMS_MD.runtimeconfig.json
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD - 副本\bin\Debug\net6.0-windows\06CMS_MD.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD - 副本\bin\Debug\net6.0-windows\06CMS_MD.pdb
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD - 副本\bin\Debug\net6.0-windows\Humanizer.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD - 副本\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD - 副本\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD - 副本\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD - 副本\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD - 副本\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD - 副本\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD - 副本\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD - 副本\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD - 副本\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD - 副本\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD - 副本\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD - 副本\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD - 副本\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD - 副本\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD - 副本\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD - 副本\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD - 副本\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD - 副本\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD - 副本\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD - 副本\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD - 副本\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD - 副本\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD - 副本\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD - 副本\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD - 副本\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD - 副本\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD - 副本\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD - 副本\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD - 副本\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD - 副本\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD - 副本\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD - 副本\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD - 副本\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD - 副本\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD - 副本\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD - 副本\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD - 副本\obj\Debug\net6.0-windows\Controls\HeaderControl.baml
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD - 副本\obj\Debug\net6.0-windows\MainWindow.baml
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD - 副本\obj\Debug\net6.0-windows\06CMS_MD.g.resources
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD - 副本\obj\Debug\net6.0-windows\06CMS_MD.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD - 副本\obj\Debug\net6.0-windows\06CMS_MD.AssemblyInfoInputs.cache
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD - 副本\obj\Debug\net6.0-windows\06CMS_MD.AssemblyInfo.cs
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD - 副本\obj\Debug\net6.0-windows\06CMS_MD.csproj.CoreCompileInputs.cache
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD - 副本\obj\Debug\net6.0-windows\06CMS_MD.csproj.CopyComplete
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD - 副本\obj\Debug\net6.0-windows\06CMS_MD.genruntimeconfig.cache
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD - 副本\obj\Debug\net6.0-windows\ref\06CMS_MD.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD - 副本\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD - 副本\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD - 副本\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\C#-workspace\C#-workspaces\WPF-workspace\06CMS_MD - 副本\obj\Debug\net6.0-windows\App.baml
